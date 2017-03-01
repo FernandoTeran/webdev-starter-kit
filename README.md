@@ -12,7 +12,7 @@ Advantages of having a starter kit
 
 Features included in this starter kit
 - Package Management with [Node Package Manager] (https://www.npmjs.com/)
-- Bundling
+- Bundling with [Webpack] (https://webpack.github.io/)
 - Minification
 - Sourcemaps
 - Transpiling via [Babel] (https://babeljs.io/)
