@@ -10,4 +10,24 @@ Advantages of having a starter kit
 - Avoids repetition
 - Acts as an automated development checklist
 
+Features included in this starter kit
+- Package Managment
+- Bundling
+- Minification
+- Sourcemaps
+- Transpiling
+- Dynamic HTML Generation
+- Centralized HTTP
+- Mock API framework
+- Component libraries
+- Development Webserver
+- Linting
+- Automated testing
+- Continuous Integration
+- Automated build
+- Automated deployment
+- Working example app
+
+
+
 
