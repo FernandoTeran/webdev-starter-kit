@@ -21,7 +21,7 @@ Features included in this starter kit
 - Mock API framework
 - Component libraries
 - Development Webserver
-- Linting
+- Linting done by [ESLint] (http://eslint.org/)
 - Automated testing
 - Continuous Integration
 - Automated build

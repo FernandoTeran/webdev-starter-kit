@@ -10,3 +10,6 @@ jspm_packages
 
 # Logs
 npm-debug.log
+
+# VSCode IDE
+.vscode
