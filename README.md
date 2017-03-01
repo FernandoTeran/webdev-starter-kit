@@ -11,11 +11,11 @@ Advantages of having a starter kit
 - Acts as an automated development checklist
 
 Features included in this starter kit
-- Package Management
+- Package Management with [Node Package Manager] (https://www.npmjs.com/)
 - Bundling
 - Minification
 - Sourcemaps
-- Transpiling
+- Transpiling via [Babel] (https://babeljs.io/)
 - Dynamic HTML Generation
 - Centralized HTTP
 - Mock API framework
@@ -30,8 +30,6 @@ Features included in this starter kit
 
 Setup after cloning this repository
 - Run `npm install`
-- Install [Node Security Platform] (https://nodesecurity.io/) globally by running `npm install -g nsp`
-- Install [localtunnel] (https://localtunnel.github.io/www/) globally by running `npm install -g localtunnel`
 - To start app in dev mode run `npm start -s`
 - To share work in progress with localtunnel run `npm run share`
 
