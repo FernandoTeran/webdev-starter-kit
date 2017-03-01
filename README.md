@@ -31,6 +31,7 @@ Features included in this starter kit
 Setup after cloning this repository
 - Run `npm install`
 - Install [Node Security Platform] (https://nodesecurity.io/) globally by running `npm install -g nsp`
+- Install [localtunnel] (https://localtunnel.github.io/www/) globally by running `npm install -g localtunnel`
 
 
 
