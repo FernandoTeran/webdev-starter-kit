@@ -11,7 +11,7 @@ Advantages of having a starter kit
 - Acts as an automated development checklist
 
 Features included in this starter kit
-- Package Managment
+- Package Management
 - Bundling
 - Minification
 - Sourcemaps
