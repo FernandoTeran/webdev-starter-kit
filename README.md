@@ -28,6 +28,9 @@ Features included in this starter kit
 - Automated deployment
 - Working example app
 
+Setup after cloning this repository
+- Run `npm install`
+
 
 
 
