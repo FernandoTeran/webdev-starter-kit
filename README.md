@@ -32,6 +32,8 @@ Setup after cloning this repository
 - Run `npm install`
 - Install [Node Security Platform] (https://nodesecurity.io/) globally by running `npm install -g nsp`
 - Install [localtunnel] (https://localtunnel.github.io/www/) globally by running `npm install -g localtunnel`
+- To start app in dev mode run `npm start -s`
+- To share work in progress with localtunnel run `npm run share`
 
 
 
