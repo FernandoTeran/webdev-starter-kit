@@ -23,7 +23,7 @@ Features included in this starter kit
 - Development Webserver
 - Linting done by [ESLint] (http://eslint.org/)
 - Automated testing with [Mocha] (http://mochajs.org/), [Chai] (http://chaijs.com/), and [JSDOM] (https://www.npmjs.com/package/jsdom)
-- Continuous Integration
+- Continuous Integration with [Travis CI] (https://travis-ci.org/) and [AppVeyor] (https://www.appveyor.com/)
 - Automated build
 - Automated deployment
 - Working example app
