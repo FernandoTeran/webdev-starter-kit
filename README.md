@@ -22,7 +22,7 @@ Features included in this starter kit
 - Component libraries
 - Development Webserver
 - Linting done by [ESLint] (http://eslint.org/)
-- Automated testing
+- Automated testing with [Mocha] (http://mochajs.org/), [Chai] (http://chaijs.com/), and [JSDOM] (https://www.npmjs.com/package/jsdom)
 - Continuous Integration
 - Automated build
 - Automated deployment
