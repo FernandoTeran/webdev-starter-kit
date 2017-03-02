@@ -17,10 +17,10 @@ Features included in this starter kit
 - Sourcemaps
 - Transpiling via [Babel] (https://babeljs.io/)
 - Dynamic HTML Generation
-- Centralized HTTP
+- Centralized HTTP with [Fetch] (https://github.com/github/fetch)
 - Mock API framework
 - Component libraries
-- Development Webserver
+- [Development Webserver] (http://expressjs.com/)
 - Linting done by [ESLint] (http://eslint.org/)
 - Automated testing with [Mocha] (http://mochajs.org/), [Chai] (http://chaijs.com/), and [JSDOM] (https://www.npmjs.com/package/jsdom)
 - Continuous Integration with [Travis CI] (https://travis-ci.org/) and [AppVeyor] (https://www.appveyor.com/)
