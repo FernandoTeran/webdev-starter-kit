@@ -2,6 +2,14 @@
 
 JavaScript development starter kit based on the PluralSight course [Building a JavaScript Development Environment] (https://app.pluralsight.com/library/courses/javascript-development-environment/table-of-contents)
 
+
+Setup after cloning this repository
+- Run `npm install`
+
+You can run the following *scripts* declared in **package.json**
+- `npm start -s` To start app in dev mode run 
+- `npm run share` To share work in progress with localtunnel run 
+
 Advantages of having a starter kit
 - Make best practices automatic
 - Encourage consistency
@@ -27,12 +35,3 @@ Features included in this starter kit
 - Automated build
 - Automated deployment
 - Working example app
-
-Setup after cloning this repository
-- Run `npm install`
-- To start app in dev mode run `npm start -s`
-- To share work in progress with localtunnel run `npm run share`
-
-
-
-
